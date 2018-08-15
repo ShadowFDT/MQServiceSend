@@ -1,0 +1,11 @@
+C:\Microservices\Send\bin\Release\netcoreapp2.1\appsettings.json
+C:\Microservices\Send\bin\Release\netcoreapp2.1\Send.deps.json
+C:\Microservices\Send\bin\Release\netcoreapp2.1\Send.runtimeconfig.json
+C:\Microservices\Send\bin\Release\netcoreapp2.1\Send.runtimeconfig.dev.json
+C:\Microservices\Send\bin\Release\netcoreapp2.1\Send.dll
+C:\Microservices\Send\bin\Release\netcoreapp2.1\Send.pdb
+C:\Microservices\Send\obj\Release\netcoreapp2.1\Send.csproj.CoreCompileInputs.cache
+C:\Microservices\Send\obj\Release\netcoreapp2.1\Send.AssemblyInfoInputs.cache
+C:\Microservices\Send\obj\Release\netcoreapp2.1\Send.AssemblyInfo.cs
+C:\Microservices\Send\obj\Release\netcoreapp2.1\Send.dll
+C:\Microservices\Send\obj\Release\netcoreapp2.1\Send.pdb

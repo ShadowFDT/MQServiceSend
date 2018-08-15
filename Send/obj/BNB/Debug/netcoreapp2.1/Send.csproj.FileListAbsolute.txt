@@ -1,0 +1,11 @@
+C:\Send\bin\BNB\Debug\netcoreapp2.1\Send.deps.json
+C:\Send\bin\BNB\Debug\netcoreapp2.1\Send.runtimeconfig.json
+C:\Send\bin\BNB\Debug\netcoreapp2.1\Send.runtimeconfig.dev.json
+C:\Send\bin\BNB\Debug\netcoreapp2.1\Send.dll
+C:\Send\bin\BNB\Debug\netcoreapp2.1\Send.pdb
+C:\Send\obj\BNB\Debug\netcoreapp2.1\Send.csprojAssemblyReference.cache
+C:\Send\obj\BNB\Debug\netcoreapp2.1\Send.csproj.CoreCompileInputs.cache
+C:\Send\obj\BNB\Debug\netcoreapp2.1\Send.AssemblyInfoInputs.cache
+C:\Send\obj\BNB\Debug\netcoreapp2.1\Send.AssemblyInfo.cs
+C:\Send\obj\BNB\Debug\netcoreapp2.1\Send.dll
+C:\Send\obj\BNB\Debug\netcoreapp2.1\Send.pdb
